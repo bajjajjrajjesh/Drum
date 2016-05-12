@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Batterie</string>
+    <string name="action_settings">Réglages</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="help">Aide</string>
+    <string name="rate">Noter</string>
+    <string name="ifyouenjoy"> Si vous appréciez l\'utilisation </string>
+    <string name="plsrate"> s\'il vous plaît prenez un moment pour noter. Merci pour votre soutien!</string>
+    <string name="remind">Rappeler moi plus tard</string>
+
+
+</resources>

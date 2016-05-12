@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Virtual Drum</string>
+    <string name="ifyouenjoy">If you enjoy using</string>
+    <string name="plsrate">Please take a moment to rate it. Thanks for your support</string>
+    <string name="rate">Rate</string>
+    <string name="remind">Remind me later</string>
+    <string name="facebook">Facebook</string>
+    <string name="more">More cool applications</string>
+    <string name="remove_ads">Remove advertisement</string>
+    <string name="ads_removed">Advertisement removed successfully</string>
+    <string name="chnglang">Language</string>
+    <string name="record_list">Records list</string>
+    <string name="music_list">Music list</string>
+    <string name="saveas">Save as</string>
+    <string name="noiteamfound">No item found</string>
+    <string name="banner_ad_unit_id">ca-app-pub-4837921560839915/3469475384</string>
+    <string name="banner_add_i">ca-app-pub-4837921560839915/4946208580</string>
+    
+
+</resources>

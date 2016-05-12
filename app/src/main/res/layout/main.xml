@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/bg">
+
+    <RelativeLayout
+        android:id="@+id/relativeLayout1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:background="@color/black">
+
+        <ToggleButton
+            android:id="@+id/btn_record"
+            android:layout_width="40dip"
+            android:layout_height="40dip"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_margin="@dimen/widght_margin"
+            android:background="@drawable/toogle_bacgorund"
+            android:focusable="false"
+            android:focusableInTouchMode="false"
+            android:padding="@dimen/widght_padding"
+            android:textOff=""
+            android:textOn="" />
+
+        <Button
+            android:id="@+id/btn_play"
+            android:layout_width="40dip"
+            android:layout_height="40dip"
+            android:layout_alignParentTop="true"
+            android:layout_margin="@dimen/widght_margin"
+            android:layout_toRightOf="@+id/btn_record"
+            android:background="@drawable/btn_play_bacgorund2"
+            android:padding="@dimen/widght_padding" />
+
+        <Button
+            android:id="@+id/btn_music_play"
+            android:layout_width="40dip"
+            android:layout_height="40dip"
+            android:layout_alignParentTop="true"
+            android:layout_margin="@dimen/widght_margin"
+            android:layout_toRightOf="@+id/btn_play"
+            android:background="@drawable/music_play"
+            android:padding="@dimen/widght_padding" />
+
+
+        <com.google.android.gms.ads.AdView
+            android:id="@+id/adView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_toEndOf="@+id/btn_music_play"
+            android:layout_toRightOf="@+id/btn_music_play"
+            ads:adSize="BANNER"
+            ads:adUnitId="@string/banner_ad_unit_id"></com.google.android.gms.ads.AdView>
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/parent"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/relativeLayout1"></RelativeLayout>
+
+</RelativeLayout>

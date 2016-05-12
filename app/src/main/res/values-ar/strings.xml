@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<string name="app_name">طبل</string>
+  <string name="rate">معدل</string>
+  <string name="ifyouenjoy">إذا استمتعت بـ</string>
+  <string name="plsrate">من فضلك، استقطع بعض اللحظات من وقتك وقم بتقييمنا. شكراً لدعمك لنا! </string>
+  <string name="remind">ذكرني لاحقاً</string>
+
+
+</resources>

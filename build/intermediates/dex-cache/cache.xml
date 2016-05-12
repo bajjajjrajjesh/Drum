@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\Drumset\DrumSet1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e23ea11124bb700eeddd4ab7aa848c615f493850">
+        <dex dex="F:\Drumset\DrumSet1\app\build\intermediates\pre-dexed\debug\classes-6f6de457d3106c82e47d3262bb360947bc608b86.jar" />
+    </item>
+    <item
+        jar="F:\Drumset\DrumSet1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="adebe28e0c0c05d34a3bfd76f3275bf4d8ff87b6">
+        <dex dex="F:\Drumset\DrumSet1\app\build\intermediates\pre-dexed\debug\classes-1debb0ef29a03b756ac84fe8fc1354d1a88f0e4a.jar" />
+    </item>
+    <item
+        jar="F:\Drumset\DrumSet1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0124ce31248c0e8acfa2b28283c6d1a4d76e73d2">
+        <dex dex="F:\Drumset\DrumSet1\app\build\intermediates\pre-dexed\debug\classes-07dc9cfdec6792c47d38697072891c8b1b2b0c84.jar" />
+    </item>
+    <item
+        jar="F:\Drumset\DrumSet1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1ff30fa49c07a08c3035d7218a3efebf5680d522">
+        <dex dex="F:\Drumset\DrumSet1\app\build\intermediates\pre-dexed\debug\classes-2601baab5fabcf29ed7670602dd7da6f85bd5247.jar" />
+    </item>
+    <item
+        jar="F:\Drumset\DrumSet1\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="F:\Drumset\DrumSet1\app\build\intermediates\pre-dexed\debug\classes-71c203619fab689bc0fab2616af390565b1e97f6.jar" />
+    </item>
+    <item
+        jar="F:\Drumset\DrumSet1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4a135d56554069e5d0ff80e3220e887e57146ee5">
+        <dex dex="F:\Drumset\DrumSet1\app\build\intermediates\pre-dexed\debug\classes-72f9c7d7c1e1a7acb7e5e29dae5e1df33b8472bc.jar" />
+    </item>
+    <item
+        jar="F:\Drumset\DrumSet1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c0c912d58c9468b1f9d9769c8975afdf2c85d681">
+        <dex dex="F:\Drumset\DrumSet1\app\build\intermediates\pre-dexed\debug\classes-831752bbddd532ddcb527bbd422c6ded4b81e602.jar" />
+    </item>
+    <item
+        jar="F:\Drumset\DrumSet1\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="F:\Drumset\DrumSet1\app\build\intermediates\pre-dexed\debug\classes-239e2a23c929a8d6aede1065a8006467c151e85d.jar" />
+    </item>
+    <item
+        jar="F:\Drumset\DrumSet1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="cb6fab7a71fa9ec1f483d44c5fca65ab469d8aca">
+        <dex dex="F:\Drumset\DrumSet1\app\build\intermediates\pre-dexed\debug\classes-b11a0296d340cf16272079b9a33fef5d3b66c630.jar" />
+    </item>
+    <item
+        jar="F:\Drumset\DrumSet1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2e24e5f1b11170163028277de63f709e42525db4">
+        <dex dex="F:\Drumset\DrumSet1\app\build\intermediates\pre-dexed\debug\classes-09067e71235f2af0a2eb62f28b38ff6eef905214.jar" />
+    </item>
+    <item
+        jar="F:\Drumset\DrumSet1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="77a9dcb5f8b1dba36aacaa9c150eb0942dbea158">
+        <dex dex="F:\Drumset\DrumSet1\app\build\intermediates\pre-dexed\debug\classes-54c09496b834ed83b70601dabce8519182bca639.jar" />
+    </item>
+    <item
+        jar="F:\Drumset\DrumSet1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b99f0b78bbcb76b915bc6529a83b65d4d46990dd">
+        <dex dex="F:\Drumset\DrumSet1\app\build\intermediates\pre-dexed\debug\classes-d76a13f7a97276eff989cf571b2de567c16c6202.jar" />
+    </item>
+    <item
+        jar="F:\Drumset\DrumSet1\app\libs\base-adapter-helper-1.1.11.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0d86e2fb7131ec0bb37fab3421b9d27727200fda">
+        <dex dex="F:\Drumset\DrumSet1\app\build\intermediates\pre-dexed\debug\base-adapter-helper-1.1.11-93a89719807c2a736af9ff1452e48cb26e60d6b6.jar" />
+    </item>
+    <item
+        jar="F:\Drumset\DrumSet1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6e85edfc9b5346d216e50ccef1f8e825504144a3">
+        <dex dex="F:\Drumset\DrumSet1\app\build\intermediates\pre-dexed\debug\classes-fdfef899bee247f5109960cdd636087ddbef7e46.jar" />
+    </item>
+    <item
+        jar="F:\Drumset\DrumSet1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2491ae1b2a848af1f4f0c795f3117c1bd6a1989f">
+        <dex dex="F:\Drumset\DrumSet1\app\build\intermediates\pre-dexed\debug\classes-be2631a99cf84ba36a916b86953ef346d0f5e6f0.jar" />
+    </item>
+    <item
+        jar="F:\Drumset\DrumSet1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="130b32ed466fa0f63efd4c7d6250ccd2ed506790">
+        <dex dex="F:\Drumset\DrumSet1\app\build\intermediates\pre-dexed\debug\classes-e7ecd1ba8276ff9b5c9d7ceea4e32de0f10a7cbc.jar" />
+    </item>
+    <item
+        jar="F:\Drumset\DrumSet1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d11330ea68c0d964d30d5caed1f27e6b1488b189">
+        <dex dex="F:\Drumset\DrumSet1\app\build\intermediates\pre-dexed\debug\classes-4d0ea94a985286a2a6ccae47a1a8432dc408951f.jar" />
+    </item>
+    <item
+        jar="F:\Drumset\DrumSet1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="F:\Drumset\DrumSet1\app\build\intermediates\pre-dexed\debug\classes-000ed2ef235fc644228c02f89902538f6e520f59.jar" />
+    </item>
+    <item
+        jar="F:\Drumset\DrumSet1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c5cafb324568d954780abb858c25db7ce675ab3c">
+        <dex dex="F:\Drumset\DrumSet1\app\build\intermediates\pre-dexed\debug\classes-3dd9c4a4c81f8c7f83ebd88e1c9fba46958cd96f.jar" />
+    </item>
+    <item
+        jar="F:\Drumset\DrumSet1\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="F:\Drumset\DrumSet1\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-95f9e30a6a8fa8ebb691282a2131c511152bf027.jar" />
+    </item>
+    <item
+        jar="E:\AndroidJavaHackingP\Android\AndroidTools\Android\studio\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="F:\Drumset\DrumSet1\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-d1321736448fb7997d951e9b6b22458c2305cc2a.jar" />
+    </item>
+    <item
+        jar="F:\Drumset\DrumSet1\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="F:\Drumset\DrumSet1\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-9aab8795d095a82532ad77589dfd0254a3957a11.jar" />
+    </item>
+    <item
+        jar="F:\Drumset\DrumSet1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="166e458ee3b5fb5fcff0f936df3f3a788e6c54f3">
+        <dex dex="F:\Drumset\DrumSet1\app\build\intermediates\pre-dexed\debug\classes-d3684f6aa0eaf60aea1ed0c74f3e354379a54424.jar" />
+    </item>
+    <item
+        jar="F:\Drumset\DrumSet1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c2ac04c5b232f6f0658ee4f1c13be09cd76406e2">
+        <dex dex="F:\Drumset\DrumSet1\app\build\intermediates\pre-dexed\debug\classes-c8b8f2dbe6d4d55120fda90680bcde0271cddb45.jar" />
+    </item>
+    <item
+        jar="F:\Drumset\DrumSet1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="42a1ee578b62fd1bd28b3307a679dc9ba0791587">
+        <dex dex="F:\Drumset\DrumSet1\app\build\intermediates\pre-dexed\debug\classes-95855e5a179ee17c967ff275b13403b0717f1384.jar" />
+    </item>
+    <item
+        jar="F:\Drumset\DrumSet1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c756d14e99d39471e99013a1e8fd2f3813ed42bf">
+        <dex dex="F:\Drumset\DrumSet1\app\build\intermediates\pre-dexed\debug\classes-d03ff22389a7c3a4fa04d9fff5885bc1b6b50f1e.jar" />
+    </item>
+    <item
+        jar="F:\Drumset\DrumSet1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="edea92852b40eee716e910af8dad9eeaa58fb0e1">
+        <dex dex="F:\Drumset\DrumSet1\app\build\intermediates\pre-dexed\debug\classes-6f9d4fb90389626edb326004fdabe829b3fe2b09.jar" />
+    </item>
+    <item
+        jar="F:\Drumset\DrumSet1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98137c4d12c50923f5809852b1ef4d1c4e162081">
+        <dex dex="F:\Drumset\DrumSet1\app\build\intermediates\pre-dexed\debug\classes-0118aa386e61037abc8d5e99c3a35ae59f161a3d.jar" />
+    </item>
+
+</items>
